@@ -165,7 +165,11 @@ An interactive Power BI dashboard was built to visualize insights clearly and ef
 
 # Author
 
+
+
 Kiran Bhatt
+
+
 Aspiring Data Analyst | Python | SQL | Power BI
 
 ---
